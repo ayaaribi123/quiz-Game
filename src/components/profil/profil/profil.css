@@ -1,0 +1,447 @@
+.element .click-Dashboard button {
+	width: 226px;
+	height: 50px;
+	background: #8692A6;
+	border: none;
+	outline: none;
+	border-radius: 40px;
+	cursor: pointer;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: 200;
+}
+
+.element .click-Dashboard{
+	position: fixed;
+	right: 85%;/* Stick to the right side */
+	top: 14%;/* Vertically center */
+}
+
+.element .click-Start-Quiz button {
+	width: 190px;
+	height: 50px;
+	background: #8692A6;
+	border: none;
+	outline: none;
+	border-radius: 40px;
+	cursor: pointer;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: 400;
+}
+
+.element .click-Dashboard img {
+	position: fixed;
+	right: 96%;/* Stick to the right side */
+	top: 16%;/* Vertically center */
+	width: 20px;
+}
+
+.element .click-Start-Quiz {
+	position: fixed;
+	right: 35%;/* Stick to the right side */
+	top: 5%;/* Vertically center */
+}
+
+.Search input {
+	width: 100%;
+	height: 100%;
+	border: none;
+	outline: none;
+	border: 2px solid rgba(225, 225, 225, .2);
+	border-radius: 40px;
+	padding: 0px 20px 1px;
+}
+
+.element .Search {
+	width: 16%;
+	height: 50px;
+	position: fixed;
+	right: 65%;/* Stick to the right side */
+	top: 5%;/* Vertically center */
+	box-shadow: #EDEDED;
+}
+
+.element h1 {
+	position: fixed;
+	right: 90%;/* Stick to the right side */
+	top: 3%;/* Vertically center */
+	color: #696F79;
+	font-size:x-large;
+}
+
+.element h2 {
+	position: fixed;
+	right: 91%;/* Stick to the right side */
+	top: 22%;/* Vertically center */
+	color: #696F79;
+	font-size: medium;
+}
+
+.element .support img{
+	position: fixed;
+	right: 96%;/* Stick to the right side */
+	top: 24%;/* Vertically center */
+	width: 25px;
+}
+.element h3 {
+	position: fixed;
+	right: 89%;/* Stick to the right side */
+	top: 30%;/* Vertically center */
+	color: #696F79;
+	font-size: medium;
+}
+
+.element .Notification img {
+	position: fixed;
+	right: 96%;/* Stick to the right side */
+	top: 32%;/* Vertically center */
+	width: 25px;
+}
+
+.element h4 {
+	position: fixed;
+	right: 91%;/* Stick to the right side */
+	top: 90%;/* Vertically center */
+	color: #696F79;
+	font-size: medium;
+}
+
+.element .logout img {
+	position: fixed;
+	right: 96%;/* Stick to the right side */
+	top: 93%;/* Vertically center */
+	width: 25px;
+}
+
+.header-img img {
+	position: fixed;
+	right: 10%;/* Stick to the right side */
+	top: 5%;/* Vertically center */
+	width: 50px; /* Adjust width as a percentage of the parent */
+}
+
+.header-img text {
+	position: fixed;
+	right: 4%;/* Stick to the right side */
+	top: 7%;/* Vertically center */
+	font-size: medium;
+	color: #696F79;
+}
+
+.body input {
+	width: 100%;
+	height: 100%;
+	border: none;
+	outline: none;
+	border: 2px solid rgba(225, 225, 225, .2);
+	border-radius: 40px;
+	padding: 0px 20px 1px;
+}
+
+.element .body {
+	position: fixed; /* Position the input field absolutely */
+	width: 1160px; /* Fixed width of the input */
+	height: 610px; /* Fixed height of the input */
+	top: 15%; /* Center vertically */
+	left: 20%; /* Center horizontally */
+	box-shadow: #EDEDED;
+}
+
+.element .body img{
+	position: fixed;
+	right: 64%;/* Stick to the right side */
+	top: 16%;/* Vertically center */
+	width: 255px; /* Adjust width as a percentage of the parent */
+}
+
+.element .body h5 {
+	position: fixed;
+	right: 53%;/* Stick to the right side */
+	top: 18%;/* Vertically center */
+	color: #696F79;
+	font-size: larger;
+}
+
+.element .body p {
+	position: fixed;
+	right: 56%;/* Stick to the right side */
+	top: 24%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.element .body .line img {
+	position: fixed;
+	right: 28%;/* Stick to the right side */
+	top: 30%;/* Vertically center */
+	width: 550px; /* Adjust width as a percentage of the parent */
+}
+
+.element .body .second-line img {
+	position: fixed;
+	right: 5%;/* Stick to the right side */
+	top: 30%;/* Vertically center */
+	width: 800px; /* Adjust width as a percentage of the parent */	
+}
+
+.flag h6{
+	position: fixed;
+	right: 56%;/* Stick to the right side */
+	top: 30%;/* Vertically center */
+	color: #696F79;
+	font-size: larger;
+}
+
+.element .flag p{
+	position: fixed;
+	right: 53%;/* Stick to the right side */
+	top: 38%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.flag input {
+	width: 30px;
+	height: 50px;
+	top: 36%;
+	position: fixed;
+	right:58%;
+	box-shadow: #EDEDED;
+}
+
+.element .flag img {
+	position: fixed;
+	right: 59%;/* Stick to the right side */
+	top: 37%;/* Vertically center */
+	width: 40px;
+}
+
+.clock h2{
+	position: fixed;
+	right: 40%;/* Stick to the right side */
+	top: 35%;/* Vertically center */
+	color: #696F79;
+	font-size: larger;
+}
+
+.element .clock p{
+	position: fixed;
+	right: 38%;/* Stick to the right side */
+	top: 39%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.clock input {
+	width: 30px;
+	height: 50px;
+	top: 36%;
+	position: fixed;
+	right:44%;
+	box-shadow: #EDEDED;
+}
+
+.element .clock img {
+	position: fixed;
+	right: 45%;/* Stick to the right side */
+	top: 37%;/* Vertically center */
+	width: 40px; 
+}
+
+.check h2{
+	position: fixed;
+	right: 23%;/* Stick to the right side */
+	top: 35%;/* Vertically center */
+	color: #696F79;
+	font-size: larger;
+}
+
+.element .check p{
+	position: fixed;
+	right: 19%;/* Stick to the right side */
+	top: 40%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.check input {
+	width: 30px;
+	height: 50px;
+	top: 36%;
+	position: fixed;
+	right:27%;
+	box-shadow: #EDEDED;
+}
+
+.element .check img {
+	position: fixed;
+	right: 28%;/* Stick to the right side */
+	top: 37%;/* Vertically center */
+	width: 40px; 
+}
+
+.Category h1{
+	position: fixed;
+	right: 68%;/* Stick to the right side */
+	top: 48%;/* Vertically center */
+	color: #696F79;
+	font-size: larger;
+}
+
+.element .Category img {
+	position: fixed;
+	right: 44%;/* Stick to the right side */
+	top: 49%;/* Vertically center */
+	width: 230px; /* Adjust width as a percentage of the parent */
+}
+
+.element .taller img {
+	position: fixed;
+	right: 51%;/* Stick to the right side */
+	top: 49%;/* Vertically center */
+	width: 150px; /* Adjust width as a percentage of the parent */
+}
+
+.Category h2{
+	position: fixed;
+	right: 21%;/* Stick to the right side */
+	top: 46%;/* Vertically center */
+	color: #696F79;
+	font-size: larger;
+}
+
+
+.element .Category text{
+	position: fixed;
+	right: 7%;/* Stick to the right side */
+	top: 47%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.Achievements input {
+	position: fixed;
+	width: 29%;
+	height: 35%;
+	border: none;
+	outline: none;
+	border: 2px solid rgba(225, 225, 225, .2);
+	border-radius: 40px;
+	padding: 0px 20px 1px;
+	right:47%;
+	top:60%;
+}
+
+.element .badgeone img {
+	position: fixed;
+	right: 54%;/* Stick to the right side */
+	top: 68%;/* Vertically center */
+	width: 70px; /* Adjust width as a percentage of the parent */
+}
+
+.element .badgetwo img {
+	position: fixed;
+	right: 62%;/* Stick to the right side */
+	top: 75%;/* Vertically center */
+	width: 73px; /* Adjust width as a percentage of the parent */
+}
+
+.element .badgethree img {
+	position: fixed;
+	right: 70%;/* Stick to the right side */
+	top: 68%;/* Vertically center */
+	width: 70px; /* Adjust width as a percentage of the parent */
+}
+
+.element .badgeone text{
+	position: fixed;
+	right: 55%;/* Stick to the right side */
+	top: 78%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.element .badgetwo text{
+	position: fixed;
+	right: 70%;/* Stick to the right side */
+	top: 78%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.element .badgethree text{
+	position: fixed;
+	right: 63%;/* Stick to the right side */
+	top: 85%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.element .view text{
+	position: fixed;
+	right: 63%;/* Stick to the right side */
+	top: 91%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.element .photoone img {
+	position: fixed;
+	right: 19%;/* Stick to the right side */
+	top: 55%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.element .phototwo img {
+	position: fixed;
+	right: 4%;/* Stick to the right side */
+	top: 55%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.element .photothree img {
+	position: fixed;
+	right: 19%;/* Stick to the right side */
+	top: 74%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.element .photofor img {
+	position: fixed;
+	right: 4%;/* Stick to the right side */
+	top: 74%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.element .photoone text{
+	position: fixed;
+	right: 28%;/* Stick to the right side */
+	top: 72%;/* Vertically center */
+	color: white;
+	font-size: larger;
+}
+
+.element .phototwo text{
+	position: fixed;
+	right: 12%;/* Stick to the right side */
+	top: 72%;/* Vertically center */
+	color: white;
+	font-size: larger;
+}
+
+.element .photothree text{
+	position: fixed;
+	right: 25%;/* Stick to the right side */
+	top: 91%;/* Vertically center */
+	color: white;
+	font-size: larger;
+}
+
+.element .photofor text{
+	position: fixed;
+	right: 10%;/* Stick to the right side */
+	top: 91%;/* Vertically center */
+	color: white;
+	font-size: larger;
+}

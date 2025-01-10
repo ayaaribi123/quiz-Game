@@ -1,0 +1,214 @@
+.element .body .histori img {
+	position: fixed;
+	right: 64%;/* Stick to the right side */
+	top: 27%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.body h1{
+	position: fixed;
+	right: 68%;/* Stick to the right side */
+	top: 16%;/* Vertically center */
+	color: #696F79;
+	font-size: x-large;
+}
+
+.element .body text{
+	position: fixed;
+	right: 68%;/* Stick to the right side */
+	top: 24%;/* Vertically center */
+	color: #696F79;
+	font-size: medium;
+}
+
+.histori h2 {
+	position: fixed;
+	right: 72%;/* Stick to the right side */
+	top: 42%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .medicin img {
+	position: fixed;
+	right: 50%;/* Stick to the right side */
+	top: 27%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.medicin h3{
+	position: fixed;
+	right: 57%;/* Stick to the right side */
+	top: 42%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .historii img {
+	position: fixed;
+	right: 35%;/* Stick to the right side */
+	top: 27%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.historii h4{
+	position: fixed;
+	right: 43%;/* Stick to the right side */
+	top: 41%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .medical img {
+	position: fixed;
+	right: 20%;/* Stick to the right side */
+	top: 27%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.medical h1{
+	position: fixed;
+	right: 28%;/* Stick to the right side */
+	top: 42%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .technologie img {
+	position: fixed;
+	right: 64%;/* Stick to the right side */
+	top: 48%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.technologie h1{
+	position: fixed;
+	right: 70%;/* Stick to the right side */
+	top: 63%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .technology img {
+	position: fixed;
+	right: 64%;/* Stick to the right side */
+	top: 70%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.technology h1{
+	position: fixed;
+	right: 70%;/* Stick to the right side */
+	top: 85%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .technologiee img {
+	position: fixed;
+	right: 35%;/* Stick to the right side */
+	top: 70%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.technologiee h1{
+	position: fixed;
+	right: 41%;/* Stick to the right side */
+	top: 85%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .technologiie img {
+	position: fixed;
+	right: 35%;/* Stick to the right side */
+	top: 48%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.technologiie h1{
+	position: fixed;
+	right: 41%;/* Stick to the right side */
+	top: 63%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .Agriculture img {
+	position: fixed;
+	right: 50%;/* Stick to the right side */
+	top: 48%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.Agriculture h1{
+	position: fixed;
+	right: 56%;/* Stick to the right side */
+	top: 63%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .Agriculturie img {
+	position: fixed;
+	right: 50%;/* Stick to the right side */
+	top: 70%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.Agriculturie h1{
+	position: fixed;
+	right: 56%;/* Stick to the right side */
+	top: 85%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .Agriculturee img {
+	position: fixed;
+	right: 20%;/* Stick to the right side */
+	top: 70%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.Agriculturee h1{
+	position: fixed;
+	right: 26%;/* Stick to the right side */
+	top: 85%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .body .Agriculturre img {
+	position: fixed;
+	right: 20%;/* Stick to the right side */
+	top: 48%;/* Vertically center */
+	width: 250px; /* Adjust width as a percentage of the parent */
+}
+
+.Agriculturre h1{
+	position: fixed;
+	right: 26%;/* Stick to the right side */
+	top: 63%;/* Vertically center */
+	color: white;
+	font-size: large;
+}
+
+.element .click-more button {
+	width: 180px;
+	height: 50px;
+	background: #8692A6;
+	border: none;
+	outline: none;
+	border-radius: 40px;
+	cursor: pointer;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: 200;
+}
+
+.element .click-more{
+	position: fixed;
+	right: 5%;/* Stick to the right side */
+	top: 89%;/* Vertically center */
+}

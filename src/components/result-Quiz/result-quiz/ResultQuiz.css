@@ -1,0 +1,50 @@
+.submit h11 {
+	position: fixed;
+	top: 55%;
+	right: 41%;
+}
+
+.submit h12 {
+	position: fixed;
+	top: 59%;
+	right: 45%;
+	text-size-adjust: smaller;
+}
+
+.submit h9 {
+	position: fixed;
+	top: 72%;
+	right: 46%;
+}
+
+.submit input {
+	width: 100%;
+	height: 100%;
+	border: black;
+	outline: black;
+	border: 2px solid rgba(0, 0, 0, .52);
+	border-radius: 40px;
+	padding: 0px 20px 1px;
+	box-shadow: rgba(0, 0, 0, .52);
+}
+
+.element .submit {
+	position: fixed;
+	/* Position the input field absolutely */
+	width: 350px;
+	/* Fixed width of the input */
+	height: 320px;
+	/* Fixed height of the input */
+	top: 35%;
+	/* Center vertically */
+	left: 38%;
+	/* Center horizontally */
+}
+
+.submit img {
+	position: fixed;
+	top: 41%;
+	right: 47%;
+	width: 90px;
+}
+

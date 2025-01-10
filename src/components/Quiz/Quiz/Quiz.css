@@ -1,0 +1,154 @@
+.element .History-Quiz .histori img {
+	position: fixed;
+	right: 47%;/* Stick to the right side */
+	top: 24%;/* Vertically center */
+	width: 550px; /* Adjust width as a percentage of the parent */
+	height: 350px;
+}
+
+.History-Quiz h1{
+	position: fixed;
+	right: 68%;/* Stick to the right side */
+	top: 16%;/* Vertically center */
+	color: #696F79;
+	font-size: x-large;
+}
+
+.element .History-Quiz text{
+	position: fixed;
+	right: 62%;/* Stick to the right side */
+	top: 24%;/* Vertically center */
+	color: #696F79;
+	font-size: medium;
+}
+
+.element .histori text{
+	position: fixed;
+	right: 70%;/* Stick to the right side */
+	top: 64%;/* Vertically center */
+	color: #696F79;
+	font-size: large;
+}
+
+.paragraphe h10{
+	position: fixed;
+	right: 35%;/* Stick to the right side */
+	top: 70%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.paragraphe h9{
+	position: fixed;
+	right: 54%;/* Stick to the right side */
+	top: 74%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.element .histori .half-paragraphe text{
+	position: fixed;
+	right: 28%;/* Stick to the right side */
+	top: 79%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.half-paragraphe h8{
+	position: fixed;
+	right: 28%;/* Stick to the right side */
+	top: 83%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.end-paragraphe h7{
+	position: fixed;
+	right: 47%;/* Stick to the right side */
+	top: 87%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.rules h1{
+	position: fixed;
+	right: 46%;/* Stick to the right side */
+	top: 28%;/* Vertically center */
+	color: #696F79;
+	font-size: large;
+}
+
+.rules h2{
+	position: fixed;
+	right: 43%;/* Stick to the right side */
+	top: 34%;/* Vertically center */
+	color: #696F79;
+	font-size: large;
+}
+
+.rules h3{
+	position: fixed;
+	right: 43%;/* Stick to the right side */
+	top: 41%;/* Vertically center */
+	color: #696F79;
+	font-size: large;
+}
+
+.rules h4{
+	position: fixed;
+	right: 45%;/* Stick to the right side */
+	top: 48%;/* Vertically center */
+	color: #696F79;
+	font-size: large;
+}
+
+.rule1 h11{
+	position: fixed;
+	right: 35%;/* Stick to the right side */
+	top: 30%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.rule2 h12{
+	position: fixed;
+	right: 36%;/* Stick to the right side */
+	top: 37%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.rule3 h13{
+	position: fixed;
+	right: 37%;/* Stick to the right side */
+	top: 44%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.rule4 h14{
+	position: fixed;
+	right: 35%;/* Stick to the right side */
+	top: 52%;/* Vertically center */
+	color: #696F79;
+	font-size: small;
+}
+
+.element .click-start button {
+	width: 180px;
+	height: 50px;
+	background: #8692A6;
+	border: none;
+	outline: none;
+	border-radius: 40px;
+	cursor: pointer;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: 200;
+}
+
+.element .click-start{
+	position: fixed;
+	right: 10%;/* Stick to the right side */
+	top: 91%;/* Vertically center */
+}

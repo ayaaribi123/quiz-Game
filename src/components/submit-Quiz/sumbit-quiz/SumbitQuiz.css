@@ -1,0 +1,69 @@
+.subit input {
+	width: 100%;
+	height: 100%;
+	border: black;
+	outline: black;
+	border: 2px solid rgba(0, 0, 0, .52);
+	border-radius: 40px;
+	padding: 0px 20px 1px;
+	box-shadow: rgba(0, 0, 0, .52);
+}
+
+.element .subit {
+	position: fixed;
+	/* Position the input field absolutely */
+	width: 250px;
+	/* Fixed width of the input */
+	height: 280px;
+	/* Fixed height of the input */
+	top: 35%;
+	/* Center vertically */
+	left: 38%;
+	/* Center horizontally */
+}
+
+.subit h16 {
+	position: fixed;
+	top: 55%;
+	right: 47%;
+}
+
+.subit h17 {
+	position: fixed;
+	top: 59%;
+	right: 50%;
+}
+
+.subit h14 {
+	position: fixed;
+	top: 66%;
+	right: 57%;
+}
+
+.subit h15 {
+	position: fixed;
+	top: 66%;
+	right: 46%;
+}
+
+
+.subit img {
+	position: fixed;
+	top: 41%;
+	right: 50%;
+	width: 90px;
+}
+.question img {
+	position: fixed;
+	top: 45%;
+	right: 52%;
+	width: 14px;
+	align-items: center;
+}
+
+.shadow img {
+	position: fixed;
+	top: 0%;
+	right: 0%;
+	width: 1550px;
+}

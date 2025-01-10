@@ -1,0 +1,13 @@
+.answer h2 {
+	position: fixed;
+	top: 75%;
+	right: 63%;
+	color: rgba(255, 0, 0, 0.671);
+}
+
+.answer h3 {
+	position: fixed;
+	top: 86%;
+	right: 60%;
+	color: green;
+}
