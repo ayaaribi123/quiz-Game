@@ -11,12 +11,12 @@ const api = () => {
 
 	useEffect(() => {
 		// This hook runs when the component mounts.
-		fetch("https://opentdb.com/api.php?amount=5&category=23") // Fetch 5 questions from category 23 (History)
+		fetch("https://opentdb.com/api.php?amount=5&category=23")
 			.then((response) => response.json()) // Convert the response to JSON
 			.then((data) => {
 				const formattedQuestions = data.results.map((item) => ({
 					question: item.question, // The question text
-					correctAnswer: item.correct_answer === "True", // Convert \"True\"/\"False\" to boolean
+					correctAnswer: item.correct_answer === "True",
 				}));
 				setQuestions(formattedQuestions); // Save formatted questions to state
 			})
